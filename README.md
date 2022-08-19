@@ -1,2 +1,2 @@
 # johnadebayo
-Here is my personal websites 
+Here is my personal website
