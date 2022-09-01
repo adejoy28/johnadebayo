@@ -5,4 +5,4 @@ var options = {
   loop: true
 };
 
-var typed = new Typed('.typing-def', options);
+var typed = new Typed('.typing', options);
